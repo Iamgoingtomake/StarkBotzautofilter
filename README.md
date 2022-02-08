@@ -20,7 +20,7 @@
 * © [PaulWalker](https://telegram.dog/PaulWalker_TG)
 * Powered By [XD_Botz](https://telegram.dog/xd_botz)
 * [Subin Ps](https://telegram.dog/subin_works)
-
+* Powered By [STARK BOTS] (https://t.me/Starkbotz) And  [HYETELEGRAM BOTS] (https://t.me/HyetelegramBots)
 ## Features
 - [x] Auto Filter
 - [x] Manual Filter
