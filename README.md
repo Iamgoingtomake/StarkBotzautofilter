@@ -16,11 +16,12 @@
 * `Fork This Repo For Now There Are Some Bugs Needed To Be Fixed`
 
 # Credits
+*   Powered By [STARK BOTS](https://t.me/Starkbotz) And  [HYETELEGRAM BOTS](https://t.me/HyetelegramBots)
 * `Base Repo Used In The Build - Eva Maria`
 * © [PaulWalker](https://telegram.dog/PaulWalker_TG)
 * Powered By [XD_Botz](https://telegram.dog/xd_botz)
 * [Subin Ps](https://telegram.dog/subin_works)
-* Powered By [STARK BOTS](https://t.me/Starkbotz) And  [HYETELEGRAM BOTS](https://t.me/HyetelegramBots)
+
 ## Features
 - [x] Auto Filter
 - [x] Manual Filter
