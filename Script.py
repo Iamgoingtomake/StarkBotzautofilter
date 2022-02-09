@@ -33,7 +33,7 @@ class script(object):
 𝖬𝖺𝖽𝖾 𝖻𝗒 @Starkbotz ❤️
 """
     ABOUT_TXT = """
-○ 𝖬𝗒 𝖭𝖺𝗆𝖾 : 𝖲𝖺𝗄𝗎𝗋𝖺
+○ 𝖬𝗒 𝖭𝖺𝗆𝖾 : <a href='https://t.me/Stark_Auto_Filter_Bot'>ULTRON</a/>
 ○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/Spidey_Ser_TG'>SpideyserTG</a>
 ○ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥 
 ○ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖺𝗌𝗒𝗇𝖼𝗂𝗈 𝟢.𝟣𝟩.𝟣 
